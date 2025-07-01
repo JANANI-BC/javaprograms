@@ -1,5 +1,0 @@
- class Birthday {
-    public static void main(String[] args) {
-        System.out.println("Happy Birthday! Have a great year ahead!");
-    }
-}
